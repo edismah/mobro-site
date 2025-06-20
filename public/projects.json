@@ -1,0 +1,191 @@
+[
+  {
+  "title": "Umami x Chainlink: Real Data. Real Yield.",
+  "description": "A motion design promo visualizing the synergy between Umami's real yield vaults and Chainlink's trusted oracle infrastructure.",
+  "tags": ["video"],
+  "preview": "previews/umami-chainlink.jpg",
+  "media": "media/umami-chainlink.mp4"
+}, 
+{
+    "title": "Perennial Finance: v2 Launch Motion",
+    "description": "A sharp and minimal motion graphics piece showcasing the redesigned Perennial UI and new trading features.",
+    "tags": ["video"],
+    "preview": "previews/perennial v2.jpg",
+    "media": "media/perennial v2.mp4"
+  },
+    {
+    "title": "Vaultka: DeFi Cocktails Explainer",
+    "description": "A playful explainer video mixing DeFi mechanics with drink-themed metaphors to introduce Vaultka’s product in a refreshing way.",
+    "tags": ["video"],
+    "preview": "previews/vaultka.jpg",
+    "media": "media/vaultka.mp4"
+  },
+  {
+    "title": "DeltaSwap: Text-Driven Launch Video",
+    "description": "A bold, text-based motion design announcement video highlighting DeltaSwap's core launch narrative.",
+    "tags": ["video"],
+    "preview": "previews/deltaswap.jpg",
+    "media": "media/deltaswap.mp4"
+  },
+ {
+    "title": "Umami: Explainer Pioneering Institutions",
+    "description": "An institutional-grade explainer introducing Umami Finance’s approach to sustainable, real yield in DeFi.",
+    "tags": ["video"],
+    "preview": "previews/umami.jpg",
+    "media": "media/umami.mp4"
+  },
+  {
+    "title": "Railgun: Isometric Explainer Video",
+    "description": "A motion design explainer video using a clean isometric visual style to simplify complex privacy tech in DeFi.",
+    "tags": ["video"],
+    "preview": "previews/railgun.jpg",
+    "media": "media/railgun.mp4"
+  },
+  {
+    "title": "Cega Finance: v2 Launch Animation",
+    "description": "A retro-styled animated launch video inspired by early digital aesthetics, tailored to Cega's v2 derivatives product.",
+    "tags": ["video"],
+    "preview": "previews/cega v2.jpg",
+    "media": "media/cega v2.mp4"
+  },
+   {
+    "title": "Exit.Tech: Promo Launch Video",
+    "description": "A dynamic, motion-focused teaser introducing Exit.Tech’s novel unlocking mechanism for esGMX liquidity.",
+    "tags": ["video"],
+    "preview": "previews/exitTech.jpg",
+    "media": "media/exitTech.mp4"
+  },
+   {
+    "title": "perp.fun: Autopilot Anime Promo",
+    "description": "A playful anime-inspired video built to highlight the new Autopilot feature on perp.fun with energetic pacing.",
+    "tags": ["video"],
+    "preview": "previews/perp-autopilot.jpg",
+    "media": "media/perp-autopilot.mp4"
+  },
+  {
+    "title": "Escher Finance: Platform Launch Video",
+    "description": "A sleek mix of motion design and live-editing used to introduce Escher Finance’s core platform and experience.",
+    "tags": ["video"],
+    "preview": "previews/escher.jpg",
+    "media": "media/escher.mp4"
+  },
+ {
+    "title": "perp.fun: 3 Months Recap Motion Edit",
+    "description": "A humorous and fast-cut motion edit celebrating the first 3 months of trading on perp.fun.",
+    "tags": ["video"],
+    "preview": "previews/perpfun-3.jpg",
+    "media": "media/perpfun-3.mp4"
+  },
+  {
+    "title": "Escher Finance: eU Token Launch Video",
+    "description": "Motion graphics and sharp editing combine to explain the mechanics and value of the new eU token from Escher.",
+    "tags": ["video"],
+    "preview": "previews/escher-eu.jpg",
+    "media": "media/escher-eu.mp4"
+  },
+     {
+    "title": "perp.fun: PerpFest Promo Edit",
+    "description": "A fast-paced, energetic edit capturing the celebratory tone of PerpFest and new feature rollouts.",
+    "tags": ["video"],
+    "preview": "previews/perpfest.jpg",
+    "media": "media/perpfest.mp4"
+  },
+  {
+    "title": "Altitude Finance: Launch Explainer Video",
+    "description": "A clear and engaging explainer video visualizing how Altitude brings new collateral dynamics to DeFi borrowing.",
+    "tags": ["video"],
+    "preview": "previews/altitude.jpg",
+    "media": "media/altitude.mp4"
+  },
+  {
+    "title": "Chronos Finance: maNFT Launch Explainer",
+    "description": "A sharp explainer video breaking down maturity-adjusted LPs and maNFT mechanics for Chronos Finance.",
+    "tags": ["video"],
+    "preview": "previews/chronos.jpg",
+    "media": "media/chronos.mp4"
+  },
+  {
+    "title": "Jigsaw Finance: 3D Launch Motion",
+    "description": "A cinematic 3D motion graphics piece built to unveil Jigsaw’s platform and showcase its mechanics visually.",
+    "tags": ["video"],
+    "preview": "previews/jigsaw.jpg",
+    "media": "media/jigsaw.mp4"
+  },
+  {
+    "title": "Union: Whaleshark Pepe Animated Series",
+    "description": "An animated content series featuring Whaleshark Pepe, blending narrative and visual humor to explain Union’s social layer.",
+    "tags": ["video"],
+    "preview": "previews/union-whaleshark.jpg",
+    "media": "media/union-whaleshark.mp4"
+  },
+  {
+    "title": "Umami: Vitalicus the First AI Edit",
+    "description": "An absurd, Pope-themed short created using AI tools to highlight Umami’s BTC vault anniversary.",
+    "tags": ["video"],
+    "preview": "previews/vitalicus.jpg",
+    "media": "media/vitalicus.mp4"
+  },
+  {
+    "title": "perp.fun: Severance AI Promo",
+    "description": "A surreal video mixing AI-generated visuals and motion edits to dramatize life before and after perp.fun.",
+    "tags": ["video"],
+    "preview": "previews/severance.jpg",
+    "media": "media/severance.mp4"
+  },
+  {
+    "title": "Umami: Justin BTCber Music Video",
+    "description": "A playful music video spoof marking 1 year of Umami's BTC vault, combining AI edits and crypto culture.",
+    "tags": ["video"],
+    "preview": "previews/UmamiBTCber.jpg",
+    "media": "media/UmamiBTCber.mp4"
+  },
+  {
+    "title": "Umami: Jokić Visits Therapist",
+    "description": "An AI-edited skit featuring Jokić in therapy, humorously reflecting on real yield and calm investing.",
+    "tags": ["video"],
+    "preview": "previews/UmamiJokic.jpg",
+    "media": "media/UmamiJokic.mp4"
+  },
+  {
+    "title": "Bonsai DAO: Landing Page + UI",
+    "description": "A sleek landing page and UI system for Bonsai DAO, designed for Web3 participation and token utility.",
+    "tags": ["web"],
+    "preview": "previews/bonsai-ui.jpg",
+    "media": "media/bonsai-ui.mp4"
+  },
+  {
+    "title": "Exit Tech: Website & Unlock UI",
+    "description": "A futuristic and modular interface for Exit Tech, emphasizing unlocking and staking experiences.",
+    "tags": ["web"],
+    "preview": "previews/exittech-ui.jpg",
+    "media": "media/exittech-ui.mp4"
+  },
+  {
+    "title": "Umami Finance: Vault Landing Page",
+    "description": "Institutional-grade design introducing Umami’s vaults and real-yield narrative for DeFi users.",
+    "tags": ["web"],
+    "preview": "previews/umami-ui.jpg",
+    "media": "media/umami-ui.mp4"
+  },
+  {
+    "title": "Umami: Vault Strategy Deck",
+    "description": "A clean deck for Umami’s DeFi pitch, introducing real yield strategy and vault growth potential.",
+    "tags": ["decks"],
+    "preview": "previews/umami-deck.jpg",
+    "media": "media/umami-deck.pdf"
+  },
+  {
+    "title": "Agra: DeFi Terminal Vision Deck",
+    "description": "Agra's pitch deck focused on the concept of a DeFi terminal and Bonsai ecosystem integration.",
+    "tags": ["decks"],
+    "preview": "previews/agra-deck.jpg",
+    "media": "media/agra-deck.pdf"
+  },
+  {
+    "title": "Naoki Farming: Ecosystem Deck",
+    "description": "A narrative-driven PDF deck introducing Naoki’s DeFi farming strategies and ecosystem design.",
+    "tags": ["decks"],
+    "preview": "previews/naoki-deck.jpg",
+    "media": "media/naoki-deck.pdf"
+  }
+]
