@@ -226,4 +226,42 @@ html {
     transform: translateY(0);
   }
 }
+@keyframes scroll-left-desktop {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes scroll-left-mobile {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes scroll-right-mobile {
+  0% {
+    transform: translateX(-50%);
+  }
+  100% {
+    transform: translateX(0%);
+  }
+}
+
+.animate-scroll-left-desktop {
+  animation: scroll-left-desktop 20s linear infinite;
+}
+
+.animate-scroll-left-mobile {
+  animation: scroll-left-mobile 10s linear infinite;
+}
+
+.animate-scroll-right-mobile {
+  animation: scroll-right-mobile 10s linear infinite;
+}
 

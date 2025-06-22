@@ -60,64 +60,92 @@
   <div class="absolute top-0 left-0 w-full h-full bg-black bg-opacity-50 z-[-1]"></div>
 
   <!-- Text -->
-<h1 class="hero-title text-center text-[3rem] sm:text-[4rem] md:text-[6rem] lg:text-[8rem] xl:text-[10rem] leading-tight font-bold max-w-[90vw] md:max-w-[1300px] w-full z-10 flex flex-wrap justify-center gap-x-3 overflow-visible">
-  <span class="word">Redefining</span>
-  <span class="word">Design</span>
-  <span class="word">for</span>
-  <span class="word">the</span>
-  <span class="word">Web3</span>
-  <span class="word">Era</span>
+<h1 class="flex flex-wrap justify-center text-center font-bold leading-tight max-w-[1300px] w-full z-10">
+  <span class="inline-block mx-3 text-[4.5rem] sm:text-[6rem] md:text-[7rem] lg:text-[9rem]" data-aos="fade-up" data-aos-delay="0">Redefining</span>
+  <span class="inline-block mx-3 text-[4.5rem] sm:text-[6rem] md:text-[7rem] lg:text-[9rem]" data-aos="fade-up" data-aos-delay="100">Design</span>
+  <span class="inline-block mx-3 text-[4.5rem] sm:text-[6rem] md:text-[7rem] lg:text-[9rem]" data-aos="fade-up" data-aos-delay="200">for</span>
+  <span class="inline-block mx-3 text-[4.5rem] sm:text-[6rem] md:text-[7rem] lg:text-[9rem]" data-aos="fade-up" data-aos-delay="300">the</span>
+  <span class="inline-block mx-3 text-[4.5rem] sm:text-[6rem] md:text-[7rem] lg:text-[9rem]" data-aos="fade-up" data-aos-delay="400">Web3</span>
+  <span class="inline-block mx-3 text-[4.5rem] sm:text-[6rem] md:text-[7rem] lg:text-[9rem]" data-aos="fade-up" data-aos-delay="500">Era</span>
 </h1>
+
 
 </header>
 
 
-   <section class="bg-black pt-28 pb-16 overflow-hidden">
+ <section class="bg-black pt-28 pb-16 overflow-hidden">
   <h3 class="text-center text-white text-xl sm:text-2xl md:text-3xl tracking-widest uppercase mb-6 font-bold">
-  Worked with friends like
-</h3>
+    Worked with friends like
+  </h3>
 
-<!-- Desktop: one row -->
-<div class="hidden md:flex gap-16 items-center animate-scroll-left whitespace-nowrap overflow-hidden">
-  <img src="/mantle.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
-  <img src="/railgun.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
-  <img src="/badger.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
-  <img src="/frax.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
-  <img src="/umami.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
-  <img src="/union.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
-  <img src="/perennial.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
-  <img src="/altitude.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
-  <img src="/jigsaw.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
-  <img src="/escher.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
-  <img src="/vertex.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
-  <img src="/gammaswap.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
-</div>
-
-<!-- Mobile: two rows -->
-<div class="md:hidden space-y-4">
-  <!-- Row 1 -->
-  <div class="flex gap-8 items-center animate-scroll-left whitespace-nowrap overflow-hidden">
-    <img src="/mantle.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
-    <img src="/railgun.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
-    <img src="/badger.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
-    <img src="/frax.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
-    <img src="/umami.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
-    <img src="/union.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
-    <img src="/perennial.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
+  <!-- Desktop: one continuous row -->
+  <div class="hidden md:block overflow-hidden w-full">
+    <div class="flex gap-16 items-center animate-scroll-left-desktop w-fit">
+      <!-- Repeat the same logos twice for infinite scroll illusion -->
+      <div class="flex gap-16 items-center shrink-0">
+        <img src="/mantle.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
+        <img src="/railgun.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
+        <img src="/badger.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
+        <img src="/frax.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
+        <img src="/umami.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
+        <img src="/union.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
+        <img src="/perennial.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
+        <img src="/altitude.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
+        <img src="/jigsaw.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
+        <img src="/escher.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
+        <img src="/vertex.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
+        <img src="/gammaswap.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
+      </div>
+      <div class="flex gap-16 items-center shrink-0">
+        <!-- Same logos again -->
+        <img src="/mantle.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
+        <img src="/railgun.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
+        <img src="/badger.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
+        <img src="/frax.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
+        <img src="/umami.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
+        <img src="/union.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
+        <img src="/perennial.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
+        <img src="/altitude.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
+        <img src="/jigsaw.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
+        <img src="/escher.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
+        <img src="/vertex.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
+        <img src="/gammaswap.svg" class="h-14 opacity-60 hover:opacity-100 transition" />
+      </div>
+    </div>
   </div>
 
-  <!-- Row 2 -->
-  <div class="flex gap-8 items-center animate-scroll-right whitespace-nowrap overflow-hidden">
-    <img src="/altitude.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
-    <img src="/jigsaw.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
-    <img src="/escher.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
-    <img src="/vertex.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
-    <img src="/gammaswap.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
-    <img src="/mantle.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
-    <img src="/railgun.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
-  </div>
-</div>
+  <!-- Mobile: two rows, opposite directions -->
+  <div class="md:hidden space-y-4">
+    <!-- Row 1 -->
+    <div class="overflow-hidden w-full">
+      <div class="flex gap-8 items-center animate-scroll-left-mobile w-fit">
+        <img src="/mantle.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
+        <img src="/railgun.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
+        <img src="/badger.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
+        <img src="/frax.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
+        <img src="/umami.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
+        <img src="/union.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
+        <img src="/perennial.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
+        <img src="/mantle.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
+        <img src="/railgun.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
+        <img src="/badger.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
+      </div>
+    </div>
 
+    <!-- Row 2 (reversed direction) -->
+    <div class="overflow-hidden w-full">
+      <div class="flex gap-8 items-center animate-scroll-right-mobile w-fit">
+        <img src="/altitude.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
+        <img src="/jigsaw.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
+        <img src="/escher.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
+        <img src="/vertex.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
+        <img src="/gammaswap.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
+        <img src="/altitude.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
+        <img src="/jigsaw.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
+        <img src="/escher.svg" class="h-8 opacity-60 hover:opacity-100 transition" />
+      </div>
+    </div>
+  </div>
 </section>
 
 
