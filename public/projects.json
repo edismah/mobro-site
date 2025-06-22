@@ -1,4 +1,46 @@
 [
+   {
+    "title": "perp.fun: 3 Months Recap Motion Edit",
+    "description": "A humorous and fast-cut motion edit celebrating the first 3 months of trading on perp.fun.",
+    "tags": ["video"],
+    "preview": "previews/perpfun-3.jpg",
+    "media": "media/perpfun-3.mp4"
+  }, 
+    {
+    "title": "Escher Finance: Platform Launch Video",
+    "description": "A sleek mix of motion design and live-editing used to introduce Escher Finance’s core platform and experience.",
+    "tags": ["video"],
+    "preview": "previews/escher.jpg",
+    "media": "media/escher.mp4"
+  },
+  {
+    "title": "Umami: Explainer Pioneering Institutions",
+    "description": "An institutional-grade explainer introducing Umami Finance’s approach to sustainable, real yield in DeFi.",
+    "tags": ["video"],
+    "preview": "previews/umami.jpg",
+    "media": "media/umami.mp4"
+  },
+  {
+    "title": "Railgun: Isometric Explainer Video",
+    "description": "A motion design explainer video using a clean isometric visual style to simplify complex privacy tech in DeFi.",
+    "tags": ["video"],
+    "preview": "previews/railgun.jpg",
+    "media": "media/railgun.mp4"
+  },
+    {
+    "title": "Umami: Justin BTCber Music Video",
+    "description": "A playful music video spoof marking 1 year of Umami's BTC vault, combining AI edits and crypto culture.",
+    "tags": ["video"],
+    "preview": "previews/UmamiBTCber.jpg",
+    "media": "media/UmamiBTCber.mp4"
+  },
+    {
+    "title": "Escher Finance: eU Token Launch Video",
+    "description": "Motion graphics and sharp editing combine to explain the mechanics and value of the new eU token from Escher.",
+    "tags": ["video"],
+    "preview": "previews/escher-eu.jpg",
+    "media": "media/escher-eu.mp4"
+  },
   {
   "title": "Umami x Chainlink: Real Data. Real Yield.",
   "description": "A motion design promo visualizing the synergy between Umami's real yield vaults and Chainlink's trusted oracle infrastructure.",
@@ -27,20 +69,6 @@
     "preview": "previews/deltaswap.jpg",
     "media": "media/deltaswap.mp4"
   },
- {
-    "title": "Umami: Explainer Pioneering Institutions",
-    "description": "An institutional-grade explainer introducing Umami Finance’s approach to sustainable, real yield in DeFi.",
-    "tags": ["video"],
-    "preview": "previews/umami.jpg",
-    "media": "media/umami.mp4"
-  },
-  {
-    "title": "Railgun: Isometric Explainer Video",
-    "description": "A motion design explainer video using a clean isometric visual style to simplify complex privacy tech in DeFi.",
-    "tags": ["video"],
-    "preview": "previews/railgun.jpg",
-    "media": "media/railgun.mp4"
-  },
   {
     "title": "Cega Finance: v2 Launch Animation",
     "description": "A retro-styled animated launch video inspired by early digital aesthetics, tailored to Cega's v2 derivatives product.",
@@ -61,27 +89,6 @@
     "tags": ["video"],
     "preview": "previews/perp-autopilot.jpg",
     "media": "media/perp-autopilot.mp4"
-  },
-  {
-    "title": "Escher Finance: Platform Launch Video",
-    "description": "A sleek mix of motion design and live-editing used to introduce Escher Finance’s core platform and experience.",
-    "tags": ["video"],
-    "preview": "previews/escher.jpg",
-    "media": "media/escher.mp4"
-  },
- {
-    "title": "perp.fun: 3 Months Recap Motion Edit",
-    "description": "A humorous and fast-cut motion edit celebrating the first 3 months of trading on perp.fun.",
-    "tags": ["video"],
-    "preview": "previews/perpfun-3.jpg",
-    "media": "media/perpfun-3.mp4"
-  },
-  {
-    "title": "Escher Finance: eU Token Launch Video",
-    "description": "Motion graphics and sharp editing combine to explain the mechanics and value of the new eU token from Escher.",
-    "tags": ["video"],
-    "preview": "previews/escher-eu.jpg",
-    "media": "media/escher-eu.mp4"
   },
      {
     "title": "perp.fun: PerpFest Promo Edit",
@@ -131,13 +138,6 @@
     "tags": ["video"],
     "preview": "previews/severance.jpg",
     "media": "media/severance.mp4"
-  },
-  {
-    "title": "Umami: Justin BTCber Music Video",
-    "description": "A playful music video spoof marking 1 year of Umami's BTC vault, combining AI edits and crypto culture.",
-    "tags": ["video"],
-    "preview": "previews/UmamiBTCber.jpg",
-    "media": "media/UmamiBTCber.mp4"
   },
   {
     "title": "Umami: Jokić Visits Therapist",
