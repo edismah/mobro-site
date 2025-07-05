@@ -13,6 +13,13 @@
     "preview": "previews/railgun.jpg",
     "media": "media/railgun.mp4"
   },
+    {
+    "title": "LandX: What is LandX?",
+    "description": "A motion design explainer video introducing LandX’s innovative approach to tokenizing real estate assets on the blockchain.",
+    "tags": ["video"],
+    "preview": "previews/landx.jpg",
+    "media": "media/landx.mp4"
+  },
   {
     "title": "Jigsaw Finance: 3D Launch Motion",
     "description": "A cinematic 3D motion graphics piece built to unveil Jigsaw’s platform and showcase its mechanics visually.",
