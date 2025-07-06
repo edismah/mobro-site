@@ -319,8 +319,8 @@ document.addEventListener("DOMContentLoaded", () => {
           `;
         } else if (p.media.endsWith(".pdf")) {
           mediaHTML = `
-            <div class="w-full max-w-[90vw] max-h-[70vh] mx-auto">
-              <iframe src="${p.media}" class="w-full h-[70vh] rounded-lg border-2 border-white/10" frameborder="0"></iframe>
+            <div class="w-full h-full mx-auto">
+              <iframe src="${p.media}" class="w-full h-full rounded-lg border-2 border-white/10" frameborder="0"></iframe>
               <a href="${p.media}" target="_blank" class="mt-4 inline-block text-blue-400 underline">Open PDF in a new tab</a>
             </div>
           `;
@@ -449,8 +449,8 @@ document.addEventListener("DOMContentLoaded", () => {
   <!-- Modal content -->
  <div
   id="modal-content"
-  class="bg-[#111] rounded-lg p-6 md:p-8 max-w-[90vw] w-auto relative text-left text-white shadow-lg transform scale-95 transition-all duration-300"
->
+  class="bg-[#111] rounded-lg p-0 md:p-0 max-w-none w-screen h-screen relative text-left text-white shadow-lg transform scale-95 transition-all duration-300"
+ >
 
     <!-- JS will inject content here -->
   </div>
